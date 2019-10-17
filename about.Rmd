@@ -21,5 +21,8 @@ a new and innovative incubator approach for rapid, data-driven CoPe investigatio
 **What is the Basic Event structure?**
 ![](Events.jpg)
 
-**What does a 'Project Pitch' look like?**
-![](NOAAPS.jpg)
+**What does the Quad Chart / 'Project Pitch' look like?**
+![](exQuad.jpg)
+
+
+
