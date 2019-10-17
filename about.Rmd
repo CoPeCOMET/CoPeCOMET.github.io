@@ -2,12 +2,12 @@
 title: "About"
 ---
 
-What's CoPe COMET?
+**What's CoPe COMET?**
 
 An incubator approach for rapid, data-driven 'Coastlines and People' science created by networks of researchers. The idea is modeled on other science ‘sprints’, where teams of researchers will assemble to transform an idea into open scientific product within a short, fixed time window (72hrs). 
 
 
-What are the goals?
+**What are the goals?**
 
 1) Forming collaborative networks of researchers working at the intersection of Coastlines and People
 
@@ -17,3 +17,9 @@ What are the goals?
 a new and innovative incubator approach for rapid, data-driven CoPe investigations created by networks of researchers. 
 
 4) Crowd-sourcing a collection of publicly available data for future use by researchers and stakeholders
+
+**What is the Basic Event structure?**
+![](Events.jpg)
+
+**What does a 'Project Pitch' look like?**
+![](NOAAPS.jpg)
