@@ -2,4 +2,4 @@
 title: "CoPe COMET website"
 ---
 
-Hello, World!
+more details soon!
