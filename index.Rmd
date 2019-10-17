@@ -1,5 +1,5 @@
 ---
-title: "CoPe COMET website"
+title: "COMET"
 ---
 
-more details soon!
+the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** 
