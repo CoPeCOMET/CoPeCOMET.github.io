@@ -4,6 +4,10 @@ title: "Apply"
 
 * Applicants are asked to provide 4 things:
   1. a short questionnaire (e.g., career stage, research interests, estimated required travel support, self-assessment of coding ability); 
-  2. a 1-page  ‘Quad chart’ of your project idea; 
+  2. a 1-page  ‘Quad chart’ of your project idea with 4 panels: 
+    + Q1: research questions/methods, 
+    + Q2: data sources/software, 
+    + Q3: timeline of tasks over three days
+    + Q4: roles for other participants & possible extensions of project
   3. a 1-paragraph description of your project idea; 
   4. a 1-page Curriculum Vitae (with links to website, GitHub handle, Twitter handle, etc.)

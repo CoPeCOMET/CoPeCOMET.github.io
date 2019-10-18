@@ -277,14 +277,23 @@ $(document).ready(function () {
 <li>
   <a href="about.html">About</a>
 </li>
-<li>
-  <a href="EventOne.html">Event 1: NC May 2019</a>
-</li>
-<li>
-  <a href="EventTwo.html">Event 2: NC October 2019</a>
-</li>
-<li>
-  <a href="EventThree.html">Event 3: CO May 2020</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Events
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="EventOne.html">Event 1: NC May 2019</a>
+    </li>
+    <li>
+      <a href="EventTwo.html">Event 2: NC October 2019</a>
+    </li>
+    <li>
+      <a href="EventThree.html">Event 3: CO May 2020</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="Apply.html">Apply!</a>
@@ -313,7 +322,15 @@ $(document).ready(function () {
 <li>Applicants are asked to provide 4 things:
 <ol style="list-style-type: decimal">
 <li>a short questionnaire (e.g., career stage, research interests, estimated required travel support, self-assessment of coding ability);</li>
-<li>a 1-page ‘Quad chart’ of your project idea;</li>
+<li>a 1-page ‘Quad chart’ of your project idea with 4 panels:</li>
+</ol>
+<ul>
+<li>Q1: research questions/methods,</li>
+<li>Q2: data sources/software,</li>
+<li>Q3: timeline of tasks over three days</li>
+<li>Q4: roles for other participants &amp; possible extensions of project</li>
+</ul>
+<ol start="3" style="list-style-type: decimal">
 <li>a 1-paragraph description of your project idea;</li>
 <li>a 1-page Curriculum Vitae (with links to website, GitHub handle, Twitter handle, etc.)</li>
 </ol></li>

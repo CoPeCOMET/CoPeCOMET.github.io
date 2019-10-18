@@ -3,16 +3,18 @@ output_dir: "."
 navbar:
   title: "CoPe COMET website"
   left:
-    - text: "Home"
+    - text: "Home"  
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Event 1: NC May 2019"
-      href: EventOne.html
-    - text: "Event 2: NC October 2019"
-      href: EventTwo.html
-    - text: "Event 3: CO May 2020"
-      href: EventThree.html
+    - text: "Events"
+      menu: 
+        - text: "Event 1: NC May 2019"
+          href: EventOne.html
+        - text: "Event 2: NC October 2019"
+          href: EventTwo.html
+        - text: "Event 3: CO May 2020"
+          href: EventThree.html
     - text: "Apply!"
       href: Apply.html
     - text: "Code of Conduct"
