@@ -1,0 +1,6 @@
+---
+title: "Outcomes"
+---
+
+
+After each event, we will post the open deliverables (Data, Code, Preprints, etc.) on this page. 
