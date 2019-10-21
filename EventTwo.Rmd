@@ -1,5 +1,9 @@
 ---
 title: "EventTwo"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 Event 2 will take place in Kitty Hawk, NC, USA in October 2020. More details soon..

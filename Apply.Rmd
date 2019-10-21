@@ -1,5 +1,9 @@
 ---
 title: "Apply"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 * Applicants are asked to provide 4 things:
