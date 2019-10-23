@@ -4,6 +4,7 @@ output:
   html_document:
     includes:
        in_header: GA_Script.html
+       after_body: footer.html
 ---
 
 the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** 

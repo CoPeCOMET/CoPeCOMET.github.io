@@ -1,7 +1,7 @@
-name: "CoPeCOMET"
+name: "CoPe COMET"
 output_dir: "."
 navbar:
-  title: "CoPe COMET website"
+  title: "CoPe COMET"
   left:
     - text: "About"
       href: about.html
@@ -21,3 +21,5 @@ navbar:
       href: Apply.html
     - text: "Data"
       href: Data.html
+    - text: "Contact"
+      href: Contact.html

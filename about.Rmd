@@ -4,6 +4,7 @@ output:
   html_document:
     includes:
        in_header: GA_Script.html
+       after_body: footer.html
 ---
 
 the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** 
@@ -24,7 +25,9 @@ the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**
 <br>
 
 * **What are the 'Open deliverables'?**
-  + _coming soon_
+  + Open Code (put on Github with a Zenodo DOI)
+  + A write-up of what you did during the event (submitted to [EarthArXiv](https://eartharxiv.org)) 
+  + Open data, such as new data produced by analysis of existing Open Data (submitted to a suitable repository)  
 
 * **How do I apply?**
   + _coming soon_
@@ -48,11 +51,9 @@ the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**
   + Dr. Anna Braswell 
     + Anna (dot) Braswell (at) Colorado (dot) EDU
     + EarthLab, CU Boulder
-    + https://www.colorado.edu/earthlab/anna-braswell
+    + http://annabraswell.weebly.com/
   + Dr. Evan Goldstein
     + GES, UNC Greensboro
     + ebgoldst (at) uncg (dot) edu
     + https://ebgoldstein.wordpress.com
     
-    
-Funding provided by NSF Award Number [1939954 ](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939954) to Braswell and Goldstein

@@ -1,0 +1,22 @@
+---
+title: "Contact"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       after_body: footer.html
+---
+
+
+* For Questions, Contact: 
+  + Dr. Anna Braswell 
+    + Anna (dot) Braswell (at) Colorado (dot) EDU
+    + EarthLab
+    + CU Boulder
+    + http://annabraswell.weebly.com/
+  + Dr. Evan Goldstein
+    + Dept. of Geography, Environment, and Sustainability
+    + UNC Greensboro
+    + ebgoldst (at) uncg (dot) edu
+    + https://ebgoldstein.wordpress.com
+    
