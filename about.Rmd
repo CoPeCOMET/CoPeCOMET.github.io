@@ -7,53 +7,11 @@ output:
        after_body: footer.html
 ---
 
-the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** 
+The **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T**  is an event where participants focus on doing data-driven 'Coastlines and People' science for 72hrs. 
 
-* **What's CoPe COMET?**
-  + A Science Sprint to do rapid, data-driven 'Coastlines and People' science. A cohort of of researchers will assemble to transform  ideas into open scientific products within 72 hrs.   
-<br>
+Participants apply to be part of each event, where tehy presetn ideas to fellow participants, break into groups, and focus on rapidly produing an Open Science product. Our intention is for participants to use open data to make these open Science advances. We ask that all code written at the event will be open source, put on github, and given a DOI. A fianl 'report out' will allow each group to present what they accomplished at the end of teh 72 hours, and groups will also submit a report/working apper to the EarthArXiv preprint server. Our intention is for these open deliverables to be the seeds of future research.
 
-* **What are the goals?**
-  1. Developing collaborative networks of researchers working at the intersection of Coastlines and People
-  2. Creating open science and open knowledge from openly available datasets, processed quickly using open code with open deliverables for researchers and stakeholders along the coast
-  3. Testing sprint events as a means to produce data-driven CoPe research. 
-  4. Crowd-sourcing a collection of publicly available data for future use by CoPe researchers and stakeholders  
-<br>
+At each event we aim to develop collaborative networks of researchers working at the intersection of Coastlines and People who are interested in data-driven projects.
 
-* **What is the Basic Event structure?**
-  ![](Events.jpg)
-<br>
+Coming soon... Basic Event structure
 
-* **What are the 'Open deliverables'?**
-  + Open Code (put on Github with a Zenodo DOI)
-  + A write-up of what you did during the event (submitted to [EarthArXiv](https://eartharxiv.org)) 
-  + Open data, such as new data produced by analysis of existing Open Data (submitted to a suitable repository)  
-
-* **How do I apply?**
-  + _coming soon_
-
-* **What does the Quad Chart / 'Project Pitch' look like?**
-  ![](exQuad.jpg)
-
-
-* **What are some examples of project ideas?**
-
-  
-
-* **Some inspiration for this event**
-  + SFI's 72hr(S)
-  + Complexity 72h 
-  + Mozilla Sprint
-  + eLife sprint
-  + previous work..
-
-* **Who can I contact regarding these events?**
-  + Dr. Anna Braswell 
-    + Anna (dot) Braswell (at) Colorado (dot) EDU
-    + EarthLab, CU Boulder
-    + http://annabraswell.weebly.com/
-  + Dr. Evan Goldstein
-    + GES, UNC Greensboro
-    + ebgoldst (at) uncg (dot) edu
-    + https://ebgoldstein.wordpress.com
-    

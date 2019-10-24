@@ -1,0 +1,57 @@
+---
+title: "FAQ"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+       after_body: footer.html
+---
+
+* **What's CoPe COMET?**
+  + A Science Sprint to do rapid, data-driven 'Coastlines and People' science. A cohort of of researchers will assemble to transform  ideas into open scientific products within 72 hrs.   
+<br>
+
+* **What are the goals?**
+  1. Developing collaborative networks of researchers working at the intersection of Coastlines and People
+  2. Creating open science and open knowledge from openly available datasets, processed quickly using open code with open deliverables for researchers and stakeholders along the coast
+  3. Testing sprint events as a means to produce data-driven CoPe research. 
+  4. Crowd-sourcing a collection of publicly available data for future use by CoPe researchers and stakeholders  
+<br>
+
+* **What is the Basic Event structure?**
+  ![](Events.jpg)
+<br>
+
+* **What are the 'Open deliverables'?**
+  + Open Code (put on Github with a Zenodo DOI)
+  + A write-up of what you did during the event (submitted to [EarthArXiv](https://eartharxiv.org)) 
+  + Open data, such as new data produced by analysis of existing Open Data (submitted to a suitable repository)  
+
+* **How do I apply?**
+  + _coming soon_
+
+* **What does the Quad Chart / 'Project Pitch' look like?**
+  ![](exQuad.jpg)
+
+
+* **What are some examples of project ideas?**
+
+  
+
+* **Some inspiration for this event**
+  + SFI's 72hr(S)
+  + Complexity 72h 
+  + Mozilla Sprint
+  + eLife sprint
+  + previous work..
+
+* **Who can I contact regarding these events?**
+  + Dr. Anna Braswell 
+    + Anna (dot) Braswell (at) Colorado (dot) EDU
+    + EarthLab, CU Boulder
+    + http://annabraswell.weebly.com/
+  + Dr. Evan Goldstein
+    + GES, UNC Greensboro
+    + ebgoldst (at) uncg (dot) edu
+    + https://ebgoldstein.wordpress.com
+    
