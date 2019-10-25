@@ -13,6 +13,8 @@ We have funding (lodging, travel, per diem) for ~10-15 participants at each of t
 
 Each event is likely to be heavy on computation, and our intention is for all code written at the event to be open source, put on github, and given a DOI (by the end of the event). A final 'report out' will allow each group to present what they accomplished at the end of the 72 hours, and groups will also submit a report/working paper [EarthArXiv](https://eartharxiv.org). Our intention is for these open deliverables to be the seeds of future research between participants and the wider CoPe Community.
 
-We will soon be soliciting applications for each 72 hr event. Check out the 'Apply!' tab for the short application procedure. 
+We will soon be soliciting applications for each 72 hr event. Check out the [Apply! page](https://copecomet.github.io/Apply.html) for the short application procedure. 
+
+Still have questions? Check out the site, specifically the [FAQ](https://copecomet.github.io/FAQ.html), or send us a [message](https://copecomet.github.io/Contact.html).
 
 

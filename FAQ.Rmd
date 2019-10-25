@@ -44,6 +44,8 @@ output:
   + [Mozilla Science Lab Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016)
   + [eLife Innovation Sprint](https://sprint.elifesciences.org)
   + [A map](https://ebgoldstein.github.io/ECplantmap.html) of literature on dune grass built during a sprint. Sprint protocol is described in the Suppl. Material of this [paper(https://ebgoldstein.github.io/ECplantmap.html)..
+<br>
+
 
 * **Who can I contact regarding these events?**
   + Dr. Anna Braswell 
