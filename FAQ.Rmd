@@ -8,7 +8,7 @@ output:
 ---
 
 * **What's CoPe COMET?**
-  + A Science Sprint to do rapid, data-driven 'Coastlines and People' science. A cohort of of researchers will assemble to transform  ideas into open scientific products within 72 hrs.   
+  + A Science Sprint to do rapid, data-driven [Coastlines and People (CoPe)](https://coastlinesandpeople.org) science. A cohort of of researchers will assemble to transform  ideas into open scientific products within 72 hrs.   
 <br>
 
 * **What are the goals?**
@@ -39,11 +39,11 @@ output:
   
 
 * **Some inspiration for this event**
-  + SFI's 72hr(S)
-  + Complexity 72h 
-  + Mozilla Sprint
-  + eLife sprint
-  + previous work..
+  + [SFI's 72hr(S)](https://www.santafe.edu/news-center/news/72-hours-science-announce)
+  + [Complexity 72h](https://complexity72h.weebly.com) 
+  + [Mozilla Science Lab Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016)
+  + [eLife Innovation Sprint](https://sprint.elifesciences.org)
+  + [A map](https://ebgoldstein.github.io/ECplantmap.html) of literature on dune grass built during a sprint. Sprint protocol is described in the Suppl. Material of this [paper(https://ebgoldstein.github.io/ECplantmap.html)..
 
 * **Who can I contact regarding these events?**
   + Dr. Anna Braswell 

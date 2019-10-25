@@ -10,9 +10,9 @@ output:
 
 * For Questions, Contact: 
   + Dr. Anna Braswell 
-    + Anna (dot) Braswell (at) Colorado (dot) EDU
     + EarthLab
     + CU Boulder
+    + Anna (dot) Braswell (at) Colorado (dot) EDU
     + http://annabraswell.weebly.com/
   + Dr. Evan Goldstein
     + Dept. of Geography, Environment, and Sustainability
