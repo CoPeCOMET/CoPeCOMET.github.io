@@ -4,7 +4,7 @@ navbar:
   title: "COMET"
   left:
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Events"
       menu: 
         - text: "Event 1: NC May 2020"
