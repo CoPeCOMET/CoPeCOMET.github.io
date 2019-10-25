@@ -1,7 +1,7 @@
-name: "CoPe COMET"
+name: "COMET"
 output_dir: "."
 navbar:
-  title: "CoPe COMET"
+  title: "COMET"
   left:
     - text: "About"
       href: about.html
