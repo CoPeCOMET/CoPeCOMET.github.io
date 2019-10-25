@@ -7,4 +7,4 @@ output:
        after_body: footer.html
 ---
 
-We will use this space to compile Data relevant to 'Coastlines and People' and our events
+We will use this space to compile data relevant to [Coastlines and People (CoPe)](https://coastlinesandpeople.org) science and used at our events.

@@ -48,12 +48,5 @@ output:
 
 
 * **Who can I contact regarding these events?**
-  + Dr. Anna Braswell 
-    + Anna (dot) Braswell (at) Colorado (dot) EDU
-    + EarthLab, CU Boulder
-    + http://annabraswell.weebly.com/
-  + Dr. Evan Goldstein
-    + GES, UNC Greensboro
-    + ebgoldst (at) uncg (dot) edu
-    + https://ebgoldstein.wordpress.com
+  + [contact](https://copecomet.github.io/Contact.html)
     

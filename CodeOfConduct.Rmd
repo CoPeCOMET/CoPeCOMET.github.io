@@ -1,5 +1,5 @@
 ---
-title: "CodeOfConduct"
+title: "Code Of Conduct"
 output: 
   html_document:
     includes:
