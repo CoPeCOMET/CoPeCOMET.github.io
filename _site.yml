@@ -8,23 +8,23 @@ navbar:
     - text: "Events"
       menu: 
         - text: "Event 1: NC May 2020"
-          href: EventOne.html
+          href: CoPe-COMET-Event-One.html
         - text: "Event 2: NC October 2020"
-          href: EventTwo.html
+          href: CoPe-COMET-Event-Two.html
         - text: "Event 3: CO May 2021"
-          href: EventThree.html
+          href: CoPe-COMET-Event-Three.html
         - text: "Code of Conduct"
-          href: CodeOfConduct.html
+          href: CoPe-COMET-CodeOfConduct.html
         - text: "Outcomes"
-          href: Outcomes.html
+          href: CoPe-COMET-Outcomes.html
     - text: "Apply!"
-      href: Apply.html
+      href: CoPe-COMET-Apply.html
     - text: "FAQ"
-      href: FAQ.html
+      href: CoPe-COMET-FAQ.html
     - text: "Data"
-      href: Data.html
+      href: CoPe-COMET-Data.html
     - text: "Contact"
-      href: Contact.html
+      href: CoPe-COMET-Contact.html
       
       
       
