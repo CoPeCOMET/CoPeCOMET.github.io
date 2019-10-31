@@ -14,6 +14,6 @@ Welcome to the website for the **C**oastlines and people **O**pen data and **M**
 
 Three COMET events are planned (two in Kitty Hawk, NC and one in Boulder, CO), with funding for ~10-15 participants to attend each event (lodging, travel, per diem). Each participant will bring a research idea to pitch to the others - ideas should focus on using open data to do science related to Coastlines and People. After project pitches, participants will divide up into self-selected groups to work on ideas for 72 hrs.
 
-Groups will give a final 'report out' after 72 hrs to present what they accomplished. All code written at the event will be made open source, put on GitHub, and given a DOI, and groups will also submit a report/working paper [EarthArXiv](https://eartharxiv.org). We intend for these open deliverables to be the seeds of future research between participants and the wider CoPe Community.
+Groups will give a final 'report out' after 72 hrs to present what they accomplished. All code written at the event will be made open source, put on GitHub, and given a DOI, and groups will also submit a report/working paper to [EarthArXiv](https://eartharxiv.org). We intend for these open deliverables to be the seeds of future research between participants and the wider CoPe Community.
 
 Check out the [Apply! page](https://copecomet.github.io/Apply.html) for the short application procedure and feel free to [drop us a line](https://copecomet.github.io/Contact.html).
