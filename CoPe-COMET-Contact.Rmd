@@ -13,14 +13,14 @@ output:
   + Dr. Anna Braswell 
     + EarthLab
     + CU Boulder
-    + Anna (dot) Braswell (at) Colorado (dot) EDU
+    + Email: Anna (dot) Braswell (at) Colorado (dot) EDU
     + [Twitter](https://twitter.com/AEBraswell)
     + http://annabraswell.weebly.com/
     
   + Dr. Evan Goldstein
     + Dept. of Geography, Environment, and Sustainability
     + UNC Greensboro
-    + [Twitter](http://www.twitter.com/ebgoldstein)
     + Email: ebgoldst (at) uncg (dot) edu
+    + [Twitter](http://www.twitter.com/ebgoldstein)
     + https://ebgoldstein.wordpress.com
     
