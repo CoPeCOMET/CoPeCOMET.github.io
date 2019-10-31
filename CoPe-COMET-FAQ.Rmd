@@ -35,17 +35,16 @@ output:
 
 
 * **What are some examples of project ideas?**
-
-  
+  + _coming soon_
+<br>
 
 * **Some inspiration for this event**
   + [SFI's 72hr(S)](https://www.santafe.edu/news-center/news/72-hours-science-announce)
   + [Complexity 72h](https://complexity72h.weebly.com) 
   + [Mozilla Science Lab Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2016)
   + [eLife Innovation Sprint](https://sprint.elifesciences.org)
-  + [A map](https://ebgoldstein.github.io/ECplantmap.html) of literature on dune grass built during a sprint. Sprint protocol is described in the Suppl. Material of this [paper](https://ebgoldstein.github.io/ECplantmap.html)..
+  + [A map](https://ebgoldstein.github.io/ECplantmap.html) of literature on dune grass built during a sprint. Sprint protocol is described in the Suppl. Material of this [paper](https://doi.org/10.7717/peerj.4932)..
 <br>
-
 
 * **Who can I contact regarding these events?**
   + [contact](https://copecomet.github.io/Contact.html)
