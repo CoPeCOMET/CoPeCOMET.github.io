@@ -4,4 +4,4 @@
 
 This is the repository for the [**COMET** website](https://copecomet.github.io), which described the events, application procedure, and event outcomes. 
 
-Funding for this project is provided by the US National Science Foundation Award [#1939954](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939954) to Goldstein and Braswell
+Funding for this project is provided by the US National Science Foundation Award [#1939954](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1939954) and [#1940006](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940006) to Goldstein and Braswell
