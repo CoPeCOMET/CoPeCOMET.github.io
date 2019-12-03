@@ -32,7 +32,7 @@ output:
 
 * **What does the Quad Chart / 'Project Pitch' look like?**
   ![](exQuad.jpg)
-
+  + [Example and instructions from NASA](https://esto.nasa.gov/files/EntryQuad_instructions_template.ppt)
 
 * **What are some examples of project ideas?**
   + _coming soon_
