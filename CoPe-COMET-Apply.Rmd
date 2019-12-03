@@ -19,4 +19,4 @@ output:
       + Q3: timeline of tasks over three days
       + Q4: roles for other participants & possible extensions of project
   3. a 1-paragraph description of your project idea; 
-  4. a 1-page Curriculum Vitae (with links to website, GitHub handle, Twitter handle, etc.)
+  4. a 2-page Curriculum Vitae (with links to website, GitHub handle, Twitter handle, etc.)
