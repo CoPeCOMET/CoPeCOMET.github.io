@@ -7,4 +7,29 @@ output:
        after_body: footer.html
 ---
 
-Code Of Conduct coming soon
+_**UNDER CONSTRUCTION**_
+
+_This policy is a living" document, and subject to refinement and expansion in the future_
+
+# Short Version
+CoPe COMET is dedicated to an inclusive, harassment-free event experience for everyone.  Our Code of Conduct can be found at: [https://copecomet.github.io/CoPe-COMET-CodeOfConduct.html](https://copecomet.github.io/CoPe-COMET-CodeOfConduct.html)
+
+# Long Version 
+
+## CoPe COMET
+CoPe COMET is a community of participants in the 3 **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** events from 2020-2021. The 72-hour sprints are focused on collaboration to use open coastal data to produce science. The events entail face-to-face meetings during the sprint, email communication, GitHub collaboration, and video conferencing. Groups initiated during the COMET events will collaborate to produce deliverables in the broad subject of coastlines and people. Cooperation and collaboration is a necessity to this process and cultivated through effective group communication. 
+We want participants to have an enjoyable and fulfilling experience at CoPe Comet. Therefore, all participants are expected to show respect and courtesy to other participants throughout the sprint, at all sprint events, and on all online communities, whether officially sponsored by CoPe COMET or not.
+
+## Scope
+All participants, speakers, and organizers at any CoPe COMET event or online are required to follow the Code of Conduct. Organizers will enforce the code throughout the lifespan of the events.
+
+## CoPe COMET should be a safe place for everybody regardless of: 
+  * gender, gender identity or gender expression
+  * sexual orientation
+  * disability
+  * physical appearance (including but not limited to body size)
+  * race
+  * age
+  * religion
+  
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately and may be subject to potential sanctions, outlined below. 
