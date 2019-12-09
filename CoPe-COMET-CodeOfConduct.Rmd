@@ -7,8 +7,6 @@ output:
        after_body: footer.html
 ---
 
-_**UNDER CONSTRUCTION**_
-
 _This policy is a living" document, and subject to refinement and expansion in the future_
 
 # Short Version
@@ -33,3 +31,47 @@ All participants, speakers, and organizers at any CoPe COMET event or online are
   * religion
   
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately and may be subject to potential sanctions, outlined below. 
+
+## By communication and participation in CoPe COMET, you agree that:
+  * We are collectively and individually committed to safety and inclusivity.
+  * We have zero tolerance for abuse, harassment, or discrimination.
+  * We respect people’s boundaries and identities.
+  *  We refrain from using language that can be considered oppressive (systemically or otherwise), e.g., sexist, racist,  homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs. We avoid using offensive topics as a form of humor in all forms of communications (including slides).
+  * We participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+  * We attempt collaboration before conflict.
+
+This community thrives because of everyone's contributions. We exchange ideas, ask questions, answer some of them, have debates, or work on group projects. There are times where the nature of a question may seem simple, has been asked and answered, or may trigger some personal feelings. It may make you feel like a snide or hurtful remark is justified, but it isn't. If you do not have a thoughtful or helpful comment, please refrain from expressing your comment. Please do not characterize questions others ask as stupid or simple; all questions are welcome. Please do not call out members for the tools they choose to use, computational skills they do or do not have, or decisions they make. A simple way to remember how you're expected to act: if you can't find anything nice to say, don't say anything at all.
+
+We expect all attendees to be present and actively engaged during the sprint. Please do not use the event as an excuse to do non-COMET related work, or catch up on email. There is a significant amount of unstructured time during each event, and we encourage participants to view each event as  a networking experience. We also expect moderation if participants choose to engage in alcohol consumption during the sprint event. 
+
+## If You Witness or Are Subject to Unacceptable Behavior
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. You can find a list of organizers to contact for each of the supporters of this code of conduct at the bottom of this page. Additionally, organizers are available to help participants engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+Our Code of Conduct and Anti-Harassment Policy extends to all aspects of CoPE COMET where individuals’ behavior affects the ability of others to participate. This includes online interactions (e.g. conference hashtag, interacting on conference-related platforms such as GitHub), as well as “after hours” at the conference, including evening social events. All conference and community participants, including the organizers, are subject to the anti-harassment policy.
+
+## How We Respond to Reports
+Actions in response to reports can range from warnings with instructions on how to correct behavior that violated the code of conduct to immediate removal from CoPe COMET events, online communities (e.g. email lists, community calls), and future engagement.
+The following is a list of potential sanctions for anyone who violates the code of conduct, depending on the severity of the violation.
+  * Warning the accused to cease their behavior and that further reports may result in sanctions
+  * Ending a talk that violates the policy early
+  * Not publishing the video, slides of a talk, or poster that violated the policy
+  * Not allowing a speaker who violated the policy to give (further) talks at the event
+  * Immediately ending any responsibilities and privileges the accused holds
+  * Requiring that the accused immediately leave the event and not return
+  * Banning the accused from future events (either indefinitely or for a certain time period)
+  * Being banned or blocked on online community platforms, e.g. reported on Twitter, removed from online community groups (e.g. GitHub)
+  * Being reported to the proper authorities
+  
+## Contact Information
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Anna Braswell or Evan Goldstein. If the matter is especially urgent, please call/contact any of these individuals:
+  * Anna Braswell at +1 (XXX) XXX-XXXX; anna.braswell@colorado.edu
+  * Evan Goldstein at +1 (XXX) XXX-XXXX; ebgoldst@uncg.edu
+COMET staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your participation.
+
+**Code of Conduct is based on and borrows heavily from:** 
+[PyCon](https://us.pycon.org/2013/about/code-of-conduct/)
+[The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers:
+[iOS Developers Slack](https://github.com/iOS-Developers-Slack/Code-Of-Conduct)
+[Berline Code of Conduct](http://berlincodeofconduct.org/)
+[EDSIN Conference](https://qubeshub.org/community/groups/edsin/code_of_conduct)
+   
