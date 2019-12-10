@@ -8,7 +8,7 @@ output:
 ---
 
 
-<img src="L1.jpg" style="width:40%; margin-right: 20px" align="left">
+<img src="L2.jpg" style="width:40%; margin-right: 20px" align="left">
 
 Welcome to the website for the **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T**. COMET is a series of 72hr events focused on data-driven [Coastlines and People (CoPe)](https://coastlinesandpeople.org) science. 
 
