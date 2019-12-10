@@ -14,14 +14,14 @@ CoPe COMET is dedicated to an inclusive, harassment-free event experience for ev
 
 # Long Version 
 
-## CoPe COMET
+### CoPe COMET
 CoPe COMET is a community of participants in the 3 **C**oastlines and people **O**pen data and **M**achin**E** learning sprin**T** events from 2020-2021. The 72-hour sprints are focused on collaboration to use open coastal data to produce science. The events entail face-to-face meetings during the sprint, email communication, GitHub collaboration, and video conferencing. Groups initiated during the COMET events will collaborate to produce deliverables in the broad subject of coastlines and people. Cooperation and collaboration is a necessity to this process and cultivated through effective group communication. 
 We want participants to have an enjoyable and fulfilling experience at CoPe Comet. Therefore, all participants are expected to show respect and courtesy to other participants throughout the sprint, at all sprint events, and on all online communities, whether officially sponsored by CoPe COMET or not.
 
-## Scope
+### Scope
 All participants, speakers, and organizers at any CoPe COMET event or online are required to follow the Code of Conduct. Organizers will enforce the code throughout the lifespan of the events.
 
-## CoPe COMET should be a safe place for everybody regardless of: 
+### CoPe COMET should be a safe place for everybody regardless of: 
   * gender, gender identity or gender expression
   * sexual orientation
   * disability
@@ -32,7 +32,7 @@ All participants, speakers, and organizers at any CoPe COMET event or online are
   
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately and may be subject to potential sanctions, outlined below. 
 
-## By communication and participation in CoPe COMET, you agree that:
+### By communication and participation in CoPe COMET, you agree that:
   * We are collectively and individually committed to safety and inclusivity.
   * We have zero tolerance for abuse, harassment, or discrimination.
   * We respect people’s boundaries and identities.
@@ -44,12 +44,12 @@ This community thrives because of everyone's contributions. We exchange ideas, a
 
 We expect all attendees to be present and actively engaged during the sprint. Please do not use the event as an excuse to do non-COMET related work, or catch up on email. There is a significant amount of unstructured time during each event, and we encourage participants to view each event as  a networking experience. We also expect moderation if participants choose to engage in alcohol consumption during the sprint event. 
 
-## If You Witness or Are Subject to Unacceptable Behavior
+### If You Witness or Are Subject to Unacceptable Behavior
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. You can find a list of organizers to contact for each of the supporters of this code of conduct at the bottom of this page. Additionally, organizers are available to help participants engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 Our Code of Conduct and Anti-Harassment Policy extends to all aspects of CoPE COMET where individuals’ behavior affects the ability of others to participate. This includes online interactions (e.g. conference hashtag, interacting on conference-related platforms such as GitHub), as well as “after hours” at the conference, including evening social events. All conference and community participants, including the organizers, are subject to the anti-harassment policy.
 
-## How We Respond to Reports
+### How We Respond to Reports
 Actions in response to reports can range from warnings with instructions on how to correct behavior that violated the code of conduct to immediate removal from CoPe COMET events, online communities (e.g. email lists, community calls), and future engagement.
 The following is a list of potential sanctions for anyone who violates the code of conduct, depending on the severity of the violation.
   * Warning the accused to cease their behavior and that further reports may result in sanctions
@@ -62,16 +62,20 @@ The following is a list of potential sanctions for anyone who violates the code 
   * Being banned or blocked on online community platforms, e.g. reported on Twitter, removed from online community groups (e.g. GitHub)
   * Being reported to the proper authorities
   
-## Contact Information
+### Contact Information
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Anna Braswell or Evan Goldstein. If the matter is especially urgent, please call/contact any of these individuals:
+
   * Anna Braswell at +1 (XXX) XXX-XXXX; anna.braswell@colorado.edu
+  
   * Evan Goldstein at +1 (XXX) XXX-XXXX; ebgoldst@uncg.edu
+  
 COMET staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your participation.
 
-**Code of Conduct is based on and borrows heavily from:** 
-[PyCon](https://us.pycon.org/2013/about/code-of-conduct/)
-[The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers:
-[iOS Developers Slack](https://github.com/iOS-Developers-Slack/Code-Of-Conduct)
-[Berline Code of Conduct](http://berlincodeofconduct.org/)
-[EDSIN Conference](https://qubeshub.org/community/groups/edsin/code_of_conduct)
+**Code of Conduct is based on and borrows heavily from:**  
+
+  * [PyCon](https://us.pycon.org/2013/about/code-of-conduct/)  
+  * [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created   by the Ada Initiative and other volunteers 
+  * [iOS Developers Slack](https://github.com/iOS-Developers-Slack/Code-Of-Conduct)
+  * [Berline Code of Conduct](http://berlincodeofconduct.org/)
+  * [EDSIN Conference](https://qubeshub.org/community/groups/edsin/code_of_conduct)
    
