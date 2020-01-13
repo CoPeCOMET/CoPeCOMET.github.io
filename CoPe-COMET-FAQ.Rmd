@@ -47,5 +47,5 @@ output:
 <br>
 
 * **Who can I contact regarding these events?**
-  + [contact](https://copecomet.github.io/Contact.html)
+  + [contact](https://CoPeCOMET.github.io/CoPe-COMET-Contact.html)
     
