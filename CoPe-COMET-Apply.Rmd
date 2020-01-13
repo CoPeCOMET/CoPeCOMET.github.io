@@ -13,7 +13,7 @@ output:
       +research interests, 
       +estimated required travel support,
       +A Self-assessment of coding ability. 
-  2. a 1-page  ‘Quad Chart’ of your project idea with 4 panels ([See the FAQ for an example](https://copecomet.github.io/FAQ.html)): 
+  2. a 1-page  ‘Quad Chart’ of your project idea with 4 panels ([See the FAQ for an example](https://copecomet.github.io/CoPe-COMET-FAQ.html)): 
       + Q1: research questions/methods, 
       + Q2: data sources/software, 
       + Q3: timeline of tasks over three days
