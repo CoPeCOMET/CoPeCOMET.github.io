@@ -16,4 +16,4 @@ Three COMET events are planned (two in Kitty Hawk, NC and one in Boulder, CO), w
 
 Groups will give a final 'report out' after 72 hrs to present what they accomplished. All code written at the event will be made open source, put on GitHub, and given a DOI, and groups will also submit a report/working paper to [EarthArXiv](https://eartharxiv.org). We intend for these open deliverables to be the seeds of future research between participants and the wider CoPe Community.
 
-Check out the [Apply! page](https://forms.gle/bpQ6c6wBNgcBmZPk7) for the short application procedure and feel free to [drop us a line](https://copecomet.github.io/Contact.html).
+Check out the [Apply! page](https://forms.gle/bpQ6c6wBNgcBmZPk7) for the short application procedure and feel free to [drop us a line](CoPe-COMET-Contact.html).
