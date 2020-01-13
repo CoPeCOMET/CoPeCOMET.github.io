@@ -18,6 +18,14 @@ output:
   4. Crowd-sourcing a collection of publicly available data for future use by CoPe researchers and stakeholders  
 <br>
 
+* **Do I need to use Machine Learning for my proposed project?**
+  + No. Participants don't need to use ML for their project. We do want people to focus on using open data to do data-driven science. 
+<br>
+
+* **Do I need to be proficient in Machine Learning to attend these events?**
+  + No. Participants don't need to be proficient in ML for these events. We are focused more on finding people interested in using open data to do data-driven science.
+<br>
+
 * **What is the Basic Event structure?**
   ![](Events.jpg)
 <br>
@@ -28,11 +36,18 @@ output:
   + Open data, such as new data produced by analysis of existing Open Data (submitted to a suitable repository)  
 
 * **How do I apply?**
-  + _coming soon_
+  + Check out the [Apply Page](https://CoPeCOMET.github.io/CoPe-COMET-Apply.html)
 
 * **What does the Quad Chart / 'Project Pitch' look like?**
-  ![](exQuad.jpg)
-  + [Example and instructions from NASA](https://esto.nasa.gov/files/EntryQuad_instructions_template.ppt)
+    + Here is an example (and instructions) from [NASA](https://esto.nasa.gov/files/EntryQuad_instructions_template.ppt). We prefer you use the Quadrant headers from the example below — 
+      + Q1: research questions/methods, 
+      + Q2: data sources/software, 
+      + Q3: timeline of tasks over three days
+      + Q4: roles for other participants & possible extensions of project
+    
+    + Here is an example from Evan and Anna:
+    ![](exQuad.jpg)
+
 
 * **What are some examples of project ideas?**
   + _coming soon_
