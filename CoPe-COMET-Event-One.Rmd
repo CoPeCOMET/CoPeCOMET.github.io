@@ -1,5 +1,5 @@
 ---
-title: "EventOne"
+title: "Event One"
 output: 
   html_document:
     includes:
@@ -8,11 +8,8 @@ output:
 ---
 
 
-* Event 1 will take place in Kitty Hawk, NC, USA from May 11th to May 15th 2020. 
+* ~~Event 1 will take place in Kitty Hawk, NC, USA from May 11th to May 15th 2020~~. 
+* **Event 1 is delayed!!**
 * Travel, per diem, and lodging funds will be provided for ~12 participants.
 * Representatives from the USACE FRF and NOAA NCSSC will be around during the event.
-
-
-* Coming soon: 
-  + More details on the event
-  + solicitation for particpants
+*  the application window for Event 1 has closed!

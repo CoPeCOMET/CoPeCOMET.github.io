@@ -1,5 +1,5 @@
 ---
-title: "EventThree"
+title: "Event Three"
 output: 
   html_document:
     includes:
