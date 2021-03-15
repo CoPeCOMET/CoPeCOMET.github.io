@@ -7,4 +7,4 @@ output:
        after_body: footer.html
 ---
 
-We have tentative plans for Event 2 to take place in Kitty Hawk, NC, USA in October 2020. More details soon..
+We have tentative plans for Event 2 to take place in Kitty Hawk, NC, USA in Fall of 2021. More details soon..

@@ -7,11 +7,11 @@ navbar:
       href: index.html
     - text: "Events"
       menu: 
-        - text: "Event 1: NC May 2020"
+        - text: "Event 1: Virtual May 2021"
           href: CoPe-COMET-Event-One.html
-        - text: "Event 2: NC October 2020"
+        - text: "Event 2: NC Fall 2021"
           href: CoPe-COMET-Event-Two.html
-        - text: "Event 3: CO May 2021"
+        - text: "Event 3: Spring 2022"
           href: CoPe-COMET-Event-Three.html
         - text: "Code of Conduct"
           href: CoPe-COMET-CodeOfConduct.html
