@@ -9,9 +9,9 @@ navbar:
       menu: 
         - text: "Event 1: Virtual May 2021"
           href: CoPe-COMET-Event-One.html
-        - text: "Event 2: NC Fall 2021"
+        - text: "Event 2: NC Spring 2022"
           href: CoPe-COMET-Event-Two.html
-        - text: "Event 3: Spring 2022"
+        - text: "Event 3: Fall 2022"
           href: CoPe-COMET-Event-Three.html
         - text: "Code of Conduct"
           href: CoPe-COMET-CodeOfConduct.html

@@ -11,9 +11,9 @@ output:
 * For Questions, Contact: 
 
   + Dr. Anna Braswell 
-    + EarthLab
-    + CU Boulder
-    + Email: Anna (dot) Braswell (at) Colorado (dot) EDU
+    + UF/IFAS School of Forest, Fisheries, and Geomatics Sciences 
+    + U Florida
+    + Email: a (dot) braswell (at) ufl (dot) edu
     + [Twitter](https://twitter.com/AEBraswell)
     + http://annabraswell.weebly.com/
     
