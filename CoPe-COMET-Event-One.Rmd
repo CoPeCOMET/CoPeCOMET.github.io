@@ -8,10 +8,9 @@ output:
 ---
 
 
-* Event 1 will take place virtually, and spread over 4 days from May 11th to May 28th 2021. (schedule below)
-* Per diem will be provided for participants.
-* Representatives from agencies will be around during the event.
-*  **the application window for Event 1 has closed!**
+* Event 1 took place virtually, spread over 4 days from May 11th to May 28th 2021. (schedule below)
+* The projects developed at the event can be see on our [GitHub page](https://github.com/CoPeCOMET)
+* There were three groups: detection of flooding in coastal traffic cameras, classification of Coastal landscapes, and natural langauge processing of conservation management plans.
 
  <br/><br/>
  
